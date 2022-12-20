@@ -2,7 +2,3 @@
 
 class Square:
     pass  # Empty class
-
-
-s = Square()
-print(s)
