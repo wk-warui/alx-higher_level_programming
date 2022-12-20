@@ -6,7 +6,3 @@
 class Square:
     """Represents a square"""
     pass
-
-
-s = Square()
-print(s)
